@@ -1,6 +1,7 @@
 # extract-video-details-from-s3
 
 Docker container for a Python script that will extract Duration, Width and Height from an S3 bucket of videos.
+
 Results will be outputted as a Tab-separated set of results
 
 ```
